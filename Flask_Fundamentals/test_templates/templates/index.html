@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bion's Bar and Grill</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+	<h2>Bion's Bar And Grill</h1>
+
+	<h3>(now with EMBEDDED PYTHON!)</h2>
+
+	<p>Phrase: {{ phrase }}</p>
+	<p>Times: {{ times }}</p>
+
+	{% for x in range(0,times) %}
+	<p>{{ phrase }}</p>
+	{% endfor %}
+
+	<h1>There is but one way to peace of mind:</h1>
+	<h1>(keep this thought by you at dawn and in the daytime and at night)</h1>
+	<h1>To give up what is beyond your control</h1>
+	<h1>To count nothing your own</h1>
+	<h1>To surrender everything to heaven and fortune</h1>
+    
+    {% if hello == "hello" %}
+ 	<p>Hello says hello!</p>
+    {% endif %}
+    
+</body>
+</html>

@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dict",
+				"dict"
+			],
+			[
+				"stars",
+				"stars"
+			],
+			[
+				"random_",
+				"random_num"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"ran",
+				"getRandomColor"
+			],
+			[
+				"charac",
+				"character_counter"
+			],
+			[
+				"cah",
+				"character_counter"
+			],
+			[
+				"word",
+				"word_counter"
+			],
+			[
+				"chara",
+				"character_counter"
+			],
+			[
+				"studen",
+				"studentNumber"
+			],
+			[
+				"days",
+				"daysUntilMyBirthday"
+			],
+			[
+				"day",
+				"daysUntilMyBirthday"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"color",
+				"colorized"
+			],
+			[
+				"co",
+				"colorized"
+			],
+			[
+				"text-de",
+				"text-decoration-style"
+			],
+			[
+				"list-s",
+				"list-style-image"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "colo",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/flesheatingemu/Dropbox/dojo/CodingDojo_Python/hello_flask/templates/index.html",
+		"/Users/flesheatingemu/Dropbox/dojo/CodingDojo_Python/hello_flask/static/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/CodingDojo_Python/hello_flask/hello.py",
+		"/Users/flesheatingemu/Dropbox/dojo/CodingDojo_Python/test_templates/static/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/CodingDojo_Python/hello_flask/templates/success.html",
+		"/Users/flesheatingemu/Dropbox/dojo/hello.py",
+		"/Users/flesheatingemu/Dropbox/dojo/index.html",
+		"/Users/flesheatingemu/Dropbox/dojo/regex.py",
+		"/Users/flesheatingemu/Dropbox/dojo/names.py",
+		"/Users/flesheatingemu/Dropbox/dojo/drawstars.py",
+		"/Users/flesheatingemu/Dropbox/dojo/cointoss.py",
+		"/Users/flesheatingemu/Dropbox/dojo/scoresandgrades.py",
+		"/Users/flesheatingemu/Dropbox/dojo/multiply.py",
+		"/Users/flesheatingemu/Dropbox/dojo/oddeven.py",
+		"/Users/flesheatingemu/Dropbox/dojo/avglist.py",
+		"/Users/flesheatingemu/Dropbox/dojo/sumlist.py",
+		"/Users/flesheatingemu/Dropbox/dojo/printfives.py",
+		"/Users/flesheatingemu/Dropbox/dojo/printodds.py",
+		"/Users/flesheatingemu/Dropbox/curesecure/style.css",
+		"/Users/flesheatingemu/Dropbox/curesecure/cures.html",
+		"/Users/flesheatingemu/Dropbox/dojo/colorClicker.html",
+		"/Users/flesheatingemu/Dropbox/dojo/zipit",
+		"/Users/flesheatingemu/Dropbox/dojo/users/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/users/index.html",
+		"/Users/flesheatingemu/Dropbox/dojo/removeDuplicates.js",
+		"/Users/flesheatingemu/Dropbox/dojo/hoverInOut/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/hoverInOut/hoverInOut.html",
+		"/Users/flesheatingemu/Dropbox/dojo/hoverInOut/ninjacat.html",
+		"/Users/flesheatingemu/Dropbox/dojo/ninjaToCat/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/ninjaToCat/ninjacat.html",
+		"/Users/flesheatingemu/Dropbox/dojo/ninjacat.html",
+		"/Users/flesheatingemu/Dropbox/dojo/disappearingNinja/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/disappearingNinja/disappearingNinja.html",
+		"/Users/flesheatingemu/Dropbox/dojo/dissappearingNinja.html",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/jqtest/jqtest.html",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/jqtest/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/jsCircles/index.html",
+		"/Users/flesheatingemu/Dropbox/dojo/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/jqstyle.css",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/js_scroll/jqtest.html",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/js_scroll/index.html",
+		"/Users/flesheatingemu/Dropbox/dojo/jquery_test.html",
+		"/Users/flesheatingemu/Dropbox/dojo/insertat.js",
+		"/Users/flesheatingemu/Dropbox/dojo/getRandomColor.js",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/jsCircles/demo.html",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/js_scroll/bionicles.txt",
+		"/Users/flesheatingemu/Dropbox/dojo/studentsAndInstructors2.js",
+		"/Users/flesheatingemu/Dropbox/dojo/javaPractice/js_scroll/README.md",
+		"/Users/flesheatingemu/Dropbox/dojo/numbersonly.js",
+		"/Users/flesheatingemu/Dropbox/dojo/slots.js",
+		"/Users/flesheatingemu/Dropbox/dojo/paragraphsBlueOnClick.js",
+		"/Users/flesheatingemu/Dropbox/dojo/debugging.html",
+		"/Users/flesheatingemu/Dropbox/dojo/fancy.js",
+		"/Users/flesheatingemu/Dropbox/dojo/typeof.js",
+		"/Users/flesheatingemu/Dropbox/dojo/printRange.js",
+		"/Users/flesheatingemu/Dropbox/dojo/exponential.js",
+		"/Users/flesheatingemu/Dropbox/dojo/birthday.js",
+		"/Users/flesheatingemu/Dropbox/dojo/skip.js",
+		"/Users/flesheatingemu/Dropbox/dojo/gitBlocks/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/internetCSS/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/databasesCSS/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/databasesCSS/databases.html",
+		"/Users/flesheatingemu/Dropbox/dojo/pythonCSS/python.html",
+		"/Users/flesheatingemu/Dropbox/dojo/pythonCSS/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/JavaScriptBasics/java.html",
+		"/Users/flesheatingemu/Dropbox/dojo/python.html",
+		"/Users/flesheatingemu/Dropbox/dojo/plotBlocks/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/plotBlocks.html",
+		"/Users/flesheatingemu/Dropbox/dojo/JavaScriptBasics/style.css",
+		"/Users/flesheatingemu/Dropbox/dojo/java.html",
+		"/Users/flesheatingemu/Dropbox/dojo/reset.css",
+		"/Users/flesheatingemu/Desktop/dojo/css_overview/css-overview.html",
+		"/Users/flesheatingemu/Desktop/dojo/css_overview/css_1.css",
+		"/Users/flesheatingemu/Dropbox/advancedGitCommands.txt",
+		"/Users/flesheatingemu/Dropbox/gitCommands.txt",
+		"/Users/flesheatingemu/Dropbox/fakeBlog.html",
+		"/Users/flesheatingemu/Dropbox/form_template.html",
+		"/Users/flesheatingemu/Dropbox/common-tags.html",
+		"/Users/flesheatingemu/Dropbox/div-span.html",
+		"/Users/flesheatingemu/Desktop/test/commands.txt",
+		"/Users/flesheatingemu/Dropbox/indentation.html",
+		"/Users/flesheatingemu/Dropbox/hello_world.html",
+		"/Users/flesheatingemu/Dropbox/greedBot.py",
+		"/Users/flesheatingemu/Downloads/DCS205-flixie/Lambda/flixieBookTickets_testevent.json",
+		"/Users/flesheatingemu/Downloads/DCS205-flixie/Lambda/flixieGetTheaters_testevent.json",
+		"/Users/flesheatingemu/Downloads/DCS205-flixie/Lambda/flixieGetTheaters_env.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"stopPro",
+			"form",
+			"thead",
+			"\"http://placekitten.com/128/128\"",
+			"val",
+			"attr",
+			"html",
+			"append",
+			"after",
+			"before",
+			"addClass",
+			"fadeOut",
+			"fadeIn",
+			"slideToggle",
+			"slideUp",
+			"click",
+			"makeSVG",
+			"attrs",
+			"white",
+			"150",
+			"200"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100",
+			"150"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

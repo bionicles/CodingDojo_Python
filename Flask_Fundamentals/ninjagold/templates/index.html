@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ninja Money</title>
+	<link rel='stylesheet' type='text/css' href="{{ url_for('static', filename='style.css')}}">
+</head>
+<body>
+	<span>Your Gold:</span> <span>{{ session['gold'] }}</span>
+	<div class="box">
+		<form action="/process_money" method="POST">Farm
+			<span>(earns 10-20 gold)</span>
+	  		<input type="hidden" name="building" value="farm">
+	  		<input type="submit" value="Find Gold!" method="POST">
+		</form> 
+	</div>	
+	<div class="box">
+		<form action="/process_money" method="POST">Cave
+			<span>(earns 5-10 gold)</span>
+	  		<input type="hidden" name="building" value="cave">
+	  		<input type="submit" value="Find Gold!" method="POST">
+		</form> 
+	</div>	
+	<div class="box">
+		<form action="/process_money" method="POST">House
+			<span>(earns 2-5 gold)</span>
+	  		<input type="hidden" name="building" value="house">
+	  		<input type="submit" value="Find Gold!" method="POST">
+		</form> 
+	</div>	
+	<div class="box">
+		<form action="/process_money" method="POST">Casino
+			<span>(earns/takes 0-50 gold)</span>
+	  		<input type="hidden" name="building" value="casino">
+	  		<input type="submit" value="Find Gold!" method="POST">
+		</form> 
+	</div>
+	<div id="log">
+		<textarea>
+			{{ session['log'] }}
+		</textarea>
+	</div>
+</body>
+</html>
